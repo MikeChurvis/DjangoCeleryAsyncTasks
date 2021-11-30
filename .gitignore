@@ -1,6 +1,7 @@
 *.pyc
 __pycache__
-env
+.pytest_cache
+.env*
 *.sqlite3
 .DS_Store
 staticfiles
